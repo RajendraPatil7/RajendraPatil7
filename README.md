@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RajendraPatil7
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Full Stack Java Development
-- 💞️ I’m looking to collaborate on Web Development
+- 💞️ I’m looking to collaborate on Web Development Projects
 - 📫 How to reach me rajendrapatil9949@gmail.com
 
 <!---
